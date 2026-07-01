@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: end-to-end-gitops
+  labels:
+    app: end-to-end-gitops
+spec:
+  ports:
+  - port: 80
+    targetPort: 8080
+    protocol: TCP
+  selector:
+    app: end-to-end-gitops
+  type: ClusterIP

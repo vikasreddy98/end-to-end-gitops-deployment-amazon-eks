@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: end-to-end-gitops
+  labels:
+    app: end-to-end-gitops
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: end-to-end-gitops
+  template:
+    metadata:
+      labels:
+        app: end-to-end-gitops
+    spec:
+      containers:
+      - name: end-to-end-gitops
+        image: vikasreddy98/end-to-end-gitops:v1
+        ports:
+        - containerPort: 8080
