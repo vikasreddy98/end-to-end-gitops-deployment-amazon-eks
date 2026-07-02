@@ -8,7 +8,7 @@ image:
   repository: vikasreddy98/end-to-end-gitops
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1"
+  tag: "28574731324"
 
 ingress:
   enabled: false
