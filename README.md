@@ -480,9 +480,9 @@ Refer to **CLEANUP.md** for complete resource cleanup instructions.
 
 # Documentation
 
-- HOWTO.md
-- TROUBLESHOOTING.md
-- CLEANUP.md
-- ARCHITECTURE.md
+- [HOWTO.md](./HOWTO.md)
+- [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)
+- [CLEANUP.md](./CLEANUP.md)
+- [ARCHITECTURE.md](docs/architecture/ARCHITECTURE.md)
 
 ---
