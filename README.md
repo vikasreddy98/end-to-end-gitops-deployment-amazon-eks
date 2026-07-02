@@ -486,7 +486,7 @@ Refer to **CLEANUP.md** for complete resource cleanup instructions.
 
 # Acknowledgements
 
-A special thanks to [Abhishek Veeramalla](linkedin.com/in/abhishek-veeramalla) for his excellent DevOps content and project walkthroughs. His guidance served as a great point of reference throughout this project and helped me understand how modern DevOps tools fit together in a real-world workflow.
+A special thanks to [Abhishek Veeramalla](https://www.linkedin.com/in/abhishek-veeramalla/) for his excellent DevOps content and project walkthroughs. His guidance served as a great point of reference throughout this project and helped me understand how modern DevOps tools fit together in a real-world workflow.
 
 While I followed his guidance as a learning resource, completing this project involved a great deal of hands-on implementation, troubleshooting, experimentation, and problem-solving. It was an invaluable learning experience, and I'm grateful for the quality of educational content he shares with the community.
 
