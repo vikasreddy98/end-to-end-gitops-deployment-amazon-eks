@@ -18,7 +18,7 @@ Application changes are automatically built through GitHub Actions and deployed 
 
 # High-Level Architecture
 
-![Architecture Diagram](../docs/architecture/architecture.png)
+![Architecture Diagram](./architecture.png)
 
 ---
 
