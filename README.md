@@ -39,6 +39,12 @@ The objective of this project was not just to deploy an application, but to impl
 
 ![Architecture](docs/architecture/architecture.png)
 
+[# ARCHITECTURE.md](docs/architecture/ARCHITECTURE.md)
+
+This document provides a detailed overview of the architecture used to deploy a Go web application on Amazon Elastic Kubernetes Service (EKS) using modern DevOps and GitOps practices.
+
+Unlike the implementation guide, this document focuses on the design decisions, interactions between components, request flow, and deployment lifecycle.
+
 ---
 
 # Technology Stack
